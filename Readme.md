@@ -1,10 +1,10 @@
 # Realtor Agent
 
-An intelligent real estate agent system powered by AI that helps analyze properties, documents, and assists with real estate transactions and creating purchase sale agreements.
+An AI real estate agent system powered by AI that leverages Smolagents framework to analyze the US lEGAL DOCUMENTS and llm powered responses .
 
 ## Features
 
-- Property Analysis from realtor.com
+- Property Analysis from "realtor.com"
 - Real Estate Document Processing
 - Multi-Agent System Architecture
 - Interactive Human-in-the-Loop Tools
